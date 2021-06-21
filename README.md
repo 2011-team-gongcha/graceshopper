@@ -6,10 +6,16 @@ Always and Forever is a mock ecommerce website inspired by BHLDN. This web appli
 
 http://always-and-forever.herokuapp.com/
 
+## Features
+
+-Users can view products, add products to cart and edit items in their carts
+-Persistent cart for both logged in users and guests
+-Logged in users and guests can checkout carts
+-Admin users have access to dashboard for adding and updating products
+
 ## How to run our app locally
 
 - Fork and clone this repository.
-
 - `npm install`
 
 ## Technologies
