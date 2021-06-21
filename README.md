@@ -8,7 +8,7 @@ http://always-and-forever.herokuapp.com/
 
 ## Features
 
-- Users can view products, add products to cart and edit items in their carts
+- Users can view products, add products to cart, and edit items in their carts
 - Persistent cart for both logged in users and guests
 - Logged in users and guests can checkout carts
 - Admin users have access to dashboard for adding and updating products
