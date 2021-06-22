@@ -1,6 +1,6 @@
 # Always & Forever
 
-Always and Forever is a mock ecommerce website inspired by BHLDN. This web application was built in a week by four student developers at Fullstack Academy.
+Always and Forever is a mock ecommerce website inspired by BHLDN. 
 
 ## Deployment 
 
